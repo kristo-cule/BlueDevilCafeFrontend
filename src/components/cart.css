@@ -1,0 +1,99 @@
+  .cart-board {
+    height: 580px;
+    width: 1200px;
+    opacity: 0.5;
+    border-radius: 8px;
+    background-color: #777;
+  }
+  .shopping-cart-header-text {
+    height: 36px;
+    width: 207px;
+    color: #FFF;
+    font-family: "Baskerville Old Face";
+    font-size: 36px;
+    line-height: 36px;
+    text-align: center;
+  }
+  .item-group {
+    height: 100px;
+    width: 900px;
+  }
+  .item-image {
+    height: 100px;
+    width: 375px;
+    border-radius: 8px;
+    background-color: #C8C8C8;
+  }
+  .item-name {
+    height: 27px;
+    width: 487.5px;
+    color: #FFF;
+    font-family: "Baskerville Old Face";
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .quantity-1-group {
+    height: 50px;
+    width: 345px;
+  }
+  .delete-button {
+    height: 25px;
+    width: 60px;
+    color: #FFF;
+  }
+  .quantity-text {
+    height: 25px;
+    width: 165px;
+    color: #FFF;
+    font-family: "Baskerville Old Face";
+    font-size: 24px;
+    line-height: 24px;
+  }
+  .quantity-dropdown {
+    height: 50px;
+    width: 243.75px;
+    border-radius: 8px;
+    background-color: #C8C8C8;
+  }
+  .checkout-group {
+    height: 150px;
+    width: 365px;
+  }
+  .checkout-box {
+    height: 150px;
+    width: 317.44px;
+    opacity: 0.5;
+    border-radius: 8px;
+    background-color: #C8C8C8;
+  }
+  .total-text {
+    height: 40px;
+    width: 264.94px;
+    color: #FFF;
+    font-family: "Baskerville Old Face";
+    font-size: 24px;
+    line-height: 24px;
+  }
+  .total-text-money {
+    height: 36.25px;
+    width: 247px;
+    color: #FFF;
+    font-family: "Baskerville Old Face";
+    font-size: 24px;
+    line-height: 24px;
+  }
+  .checkout-button-box {
+    height: 62.5px;
+    width: 264.94px;
+    border-radius: 8px;
+    background-color: #C8C8C8;
+  }
+  .checkout-button-text {
+    height: 18px;
+    width: 170.93px;
+    color: #FFF;
+    font-family: "Baskerville Old Face";
+    font-size: 24px;
+    line-height: 24px;
+    text-align: center;
+  }
